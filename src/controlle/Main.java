@@ -26,4 +26,4 @@ public class Main {
         System.out.println("Обновленный год публикации книги 1: " + book1.getPublicationYear());
     }
 }
-```
+```/
